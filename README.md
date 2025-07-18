@@ -6,17 +6,6 @@
 - **Language:** Modern C++ (ISO)
 - **Compiler:** g++ on Ubuntu
 
-
-## 🛠️ Quick Setup
-```bash
-# clone & enter
-git clone https://github.com/Salman-Sensei/flight-management-cpp.git
-cd flight-management-cpp
-
-# compile & run
-g++ airline.cpp -o airline
-./airline
-
 ## ✨ Core Features
 
 ### 🛫 Admin Panel
@@ -31,4 +20,16 @@ g++ airline.cpp -o airline
 ### 👤 Passenger Portal
 - 🔍 Browse available flights  
 - 🎫 Book tickets (with age-based pricing)  
+
+
+## 🛠️ Quick Setup
+```bash
+# clone & enter
+git clone https://github.com/Salman-Sensei/flight-management-cpp.git
+cd flight-management-cpp
+
+# compile & run
+g++ airline.cpp -o airline
+./airline
+
 
