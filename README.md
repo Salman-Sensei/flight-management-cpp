@@ -21,6 +21,12 @@
 - 🔍 Browse available flights  
 - 🎫 Book tickets (with age-based pricing)  
 
+## 🖥️ Sample Default Admin (Ubuntu Terminal)
+
+<p align="center">
+  <img src="screenshot.png" alt="Code running in Ubuntu terminal" width="700"/>
+</p>
+
 
 ## 🛠️ Quick Setup
 ```bash
@@ -30,6 +36,7 @@ cd flight-management-cpp
 
 # compile & run
 g++ airline.cpp -o airline
-./airline
+./airline```
+
 
 
