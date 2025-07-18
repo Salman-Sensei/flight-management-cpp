@@ -16,18 +16,19 @@ cd flight-management-cpp
 # compile & run
 g++ airline.cpp -o airline
 ./airline
-✨ Core Features
 
-    Admin Panel:
+## ✨ Core Features
 
-        ➕ Add or modify flights
+### 🛫 Admin Panel
+- ➕ Add or modify flights  
+- 👩‍✈️ Assign crew members  
+- ✅ Mark flights as complete  
 
-        👩‍✈️ Assign crew & ✅ mark flights complete
+### 🧑‍✈️ Crew Portal
+- 📋 View current flight assignments  
+- 📜 Check flight history  
 
-    Crew Portal:
+### 👤 Passenger Portal
+- 🔍 Browse available flights  
+- 🎫 Book tickets (with age-based pricing)  
 
-        📋 View current assignments & 📜 flight history
-
-    Passenger Portal:
-
-        🔍 List flights & 🎫 book tickets (age-based pricing)
